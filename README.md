@@ -8,8 +8,8 @@ This repository hosts the public CV and 1-page summary of Dante Merlino, MD PhD.
 
 ### Files
 - `index.html`: Landing page with links to documents
-- `dantemerlino_CV.pdf`: Full Curriculum Vitae
-- `dantemerlino_Summary.pdf`: 1-page condensed summary
+- `DanteMerlino_CV.pdf`: Full Curriculum Vitae
+- `DanteMerlino_Summary.pdf`: 1-page condensed summary
 
 To update your CV or summary:
 1. Replace the PDFs with the latest versions (keep same filenames).
