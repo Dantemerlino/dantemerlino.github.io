@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Merlino;Dante;;MD, PhD;
+FN:Dante Merlino, MD, PhD
+TITLE:Fellow, Head & Neck Surgical Oncology & Microvascular Reconstruction
+ORG:University of Pennsylvania
+EMAIL;TYPE=INTERNET;TYPE=WORK:dante.j.merlino@gmail.com
+URL;TYPE=WORK:https://dantemerlino.github.io
+URL;TYPE=SCHOLAR:https://scholar.google.com/citations?hl=en&user=qesKpL4AAAAJ
+URL;TYPE=GITHUB:https://github.com/Dantemerlino
+NOTE:Physician–scientist combining clinical practice, data science, and AI-driven analytics.
+END:VCARD
