@@ -2,11 +2,13 @@ BEGIN:VCARD
 VERSION:3.0
 N:Merlino;Dante;
 FN:Dante Merlino, MD, PhD
-TITLE:Fellow, Head & Neck Surgical Oncology & Microvascular Reconstruction
-ORG:University of Pennsylvania
-EMAIL;TYPE=INTERNET;TYPE=WORK:dante.j.merlino@gmail.com
+TITLE:Head and Neck Surgical Oncologist - Visiting Assistant Professor
+ROLE:Head and Neck Surgical Oncology and Microvascular Reconstruction
+ORG:University of Illinois College of Medicine;Department of Otolaryngology-Head and Neck Surgery
+EMAIL;TYPE=INTERNET;TYPE=WORK;TYPE=PREF:dmerlino@uic.edu
+EMAIL;TYPE=INTERNET;TYPE=HOME:dante.j.merlino@gmail.com
 URL;TYPE=WORK:https://dantemerlino.github.io
 URL;TYPE=SCHOLAR:https://scholar.google.com/citations?hl=en&user=qesKpL4AAAAJ
 URL;TYPE=GITHUB:https://github.com/Dantemerlino
-NOTE:Physician–scientist combining clinical practice, data science, and AI-driven analytics.
+NOTE:Head and neck surgical oncologist and physician-scientist at UI Health in Chicago. Clinical practice in the surgical management of head and neck malignancy including transoral robotic surgery and microvascular free tissue reconstruction. Research in surgical outcomes and applied clinical AI.
 END:VCARD
